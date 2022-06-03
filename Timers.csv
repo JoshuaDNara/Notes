@@ -1,0 +1,13 @@
+,estimated mark,mark,,
+3.3V + 5V ,1,1,,
+SB ADC ,4,4,,
+SB DAC  ,4,4,,
+Pulse output ,4,4,,
+Debug LED's ,3,3,,
+Change measurement  ,2,2,,
+Change parameter  ,2,2,,
+"UART, display format  and scrolling ",5,5,,
+Current sensor ,0,3,,
+Combination test and   system accuracy ,0,2,,
+,25,30,,16
+,,,,19
